@@ -7,12 +7,11 @@ Two or more integers having the same number of 1's in their binary representatio
 Complete the rearrange function in the editor below. It has one parameter: an array of n integers, elements. The function must sort the elements array according to the rules above and return the sorted array.
 
 Input Format:
-The internal test cases read the following input from stdin and passes it to the function:
+  The internal test cases read the following input from stdin and passes it to the function:
+    The first line contains an integer, n, denoting the number of integers in elements.
 
-The first line contains an integer, n, denoting the number of integers in elements.
-
-Each line i of the n subsequent lines (where 0 ≤ i < n) contains an integer describing elementsi.
+  Each line i of the n subsequent lines (where 0 ≤ i < n) contains an integer describing elementsi.
 
 Constraints:
-1 ≤ n ≤ 105
-1 ≤ elementsi ≤ 109
+  1 ≤ n ≤ 105
+  1 ≤ elementsi ≤ 109
